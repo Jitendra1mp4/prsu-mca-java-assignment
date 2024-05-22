@@ -1,5 +1,5 @@
 # PRSU MCA Java Assignment Solution
-This repository contains the JAVA assignments completed by Jitendra for the MCA program at PRSU.
+This repository contains the java assignments programs and related files prepared by Jitendra Sahu for the MCA program at PRSU.
 * `programs` directory contains all the programs.
 * `docs` directory contains all the docx and pdf file.
 * inside program directory there `bat script` named as `execJava.bat`.
