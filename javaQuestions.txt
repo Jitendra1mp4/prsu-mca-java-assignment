@@ -1,0 +1,154 @@
+Program 1. Write a java program for Creation and Casting of Variables. 
+Code:
+DONE2
+Output:
+
+Program 2. Write a java program to demonstrate the various Operators.
+Code:
+DONE2
+Output:
+
+Program 3. Write a java program for printing the current date in different formats.
+Code:
+DONE2
+Output:
+
+Program 4. Write a java program for Inputting Data From Keyboard through Scanner Class.
+Code:
+DONE2
+Output:
+
+Program 5. Write a java program for Inputting Data From Keyboard through BufferedReader Class.
+Code:
+DONE2
+Output:
+
+Program 6. Write a java program for Inputting Data From Keyboard through Console Class.
+Code:
+DONE2
+Output:
+
+Program 7. Write a java program to demonstrate the use of for–each loop.
+Code:
+DONE2
+Output:
+
+Program 8. Write a java program to demonstrate ragged arrays.
+Code:
+DONE2
+Output:
+
+Program 9. Write a java program to demonstrate anonymous arrays.
+Code:
+DONE2
+Output:
+
+Program 10. Write a java program to demonstrate the methods of Arrays Class.
+Code:
+DONE2
+Output:
+
+Program 11. Write a java program for Application Of Classes And Objects.
+Code:
+DONE
+Output:
+
+Program 12. Write a java program to demonstrate method overloading.
+DONE
+
+Program 13. Write a java program to demonstrate constructor overloading.
+
+Program 14. Write a java program Using Single Inheritance.
+
+Program 15. Write a java program Using Super And This Keyword.
+
+Program 16. Write a java program to demonstrate multilevel inheritance.
+
+Program 17. Write a java program to demonstrate method overriding.
+
+Program 18. Write a java program Using Multiple Inheritance Concept through interfaces.
+
+Program 19. Write a java program to demonstrate the concept of inner class.
+
+Program 20. Write a java program to demonstrate the concept of local class.
+
+Program 21. Write a java program that creates its own package containing two classes.
+
+Program 22. Write a java program Using Try And Catch Statement.
+
+Program 23. Write a java program Using Multiple Catch Statements.
+
+Program 24. Write a java program to demonstrate the MultiCatch feature.
+
+Program 25. Write a java program to demonstrate the use of finally block.
+
+Program 26. Write a java program Using Nested Try Statements.
+
+Program 27. Write a java program To Create Your Own Exception Class And Display Corresponding Error Message.
+
+Program 28. Write a java program For Creating And Executing Threads by extending the Thread class.
+
+Program 29. Write a java program To run Three Threads by implementing the Runnable Interface.
+
+Program 30. Write a java program to demonstrate the use of join() method.
+
+Program 31. Write a java program to demonstrate Multithreading using wait () & notify().
+
+Program 32. Write a java program to demonstrate The String Class & its methods.
+
+Program 33. Write a java program to demonstrate StringBuffer Class & its methods.
+
+Program 34. Write a java program to demonstrate various Wrapper Classes.
+
+Program 35. Write a java program to demonstrate HashSet Class & its methods.
+
+Program 36. Write a java program to demonstrate ArrayList Class & its methods.
+
+Program 37. Write a java program to copy a File.
+
+Program 38. Write a java program to Count the numbers of Characters in a File.
+
+Program 39. Write a java program to demonstrate Object Serialization.
+
+Program 40. Write a java program to demonstrate Keyboard Event.
+
+Program 41. Write a java program to demonstrate Mouse Event.
+
+Program 42. Write a java program to establish connection to the database.
+
+Program 43. Write a java program to create a table named employee with fields as emp_id, emp_name, age, dept.
+
+Program 44. Write a java program to create a table and drop it.
+
+Program 45. Write a java program to insert multiple rows in a table using prepared statement.
+
+Program 46. Write a java program to display contents of a table on the console.
+
+Program 47. Write a java program to update rows using result set.
+
+Program 48. Write a java program to describe the functions of metadata objects.(resultset & database)
+
+Program 49. Write a java program to demonstrate the ArrayList class.
+
+Program 50. Write a java program to demonstrate the HashSet class.
+
+Program 51. Write a java program to demonstrate the HashMap class.
+
+Program 52. Write a java program to demonstrate the Vector class.
+
+Program 53. Write a java program to demonstrate the LinkedList class.
+
+Program 54. Write a java program to demonstrate the JTextField class.
+
+Program 55. Write a java program to demonstrate the JButton class.
+
+Program 56. Write a java program to demonstrate the JToggleButton class.
+
+Program 57. Write a java program to demonstrate the JCheckbox class.
+
+Program 58. Write a java program to demonstrate the JRadioButton class.
+
+Program 59. Write a java program to demonstrate the JComboBox class.
+
+Program 60. Write a java program to demonstrate the JList class.
+
