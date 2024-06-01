@@ -1,9 +1,23 @@
 # PRSU MCA Java Assignment Solution
-This repository contains the java assignments programs and related files prepared by Jitendra Sahu for the MCA program at PRSU.
-* `programs` directory contains all the programs.
-* `docs` directory contains all the docx and pdf file.
-* inside program directory there is a `bat script` named as `execJava.bat`.
-    - `execJava.bat` - this is an amazing file it takes name of the program as argument.
-    - compile and executes the file.
-    - `copies content of file to clip board` , so you don't have to do it manully for pasting it to docx file.
-* for some program database connectivity is needed for which there is `DBconfig.java` in `jkdatabase` package which contains some variable regarding connection.
+
+This repository houses the Java assignment programs and related files prepared by Jitendra Sahu for the MCA program at PRSU.
+
+## Contents:
+
+- **`programs` Directory:** Contains all the Java programs.
+- **`docs` Directory:** Includes all documentation files in both .docx and .pdf formats.
+
+## Tool:
+
+Within the `programs` directory, you'll find a handy utility:
+
+- **`execJava.bat`:**
+  - This batch script simplifies the process of compiling and executing Java programs.
+  - It accepts the program's name as an argument.
+  - Automatically copies the program's content to the clipboard, eliminating manual copying for pasting into documentation files.
+
+## Database Connectivity:
+
+For certain programs requiring database connectivity, you'll find a `DBconfig.java` file within the `jkdatabase` package. This file contains variables related to database connection settings.
+
+Explore the directories to access Jitendra's Java assignments and associated documentation effortlessly.
